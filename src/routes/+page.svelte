@@ -1,0 +1,5 @@
+<div style="background: url(/guinea-pig-vegetables.jpg); height:100vh; background-size: cover; padding: 0.5rem">
+    <h1 style="margin: 0">Welcome to Guineacool.com!</h1>
+
+    <p>Meek meek we will add a ton of stuff about keeping your guinea pig cool, right hooman...?</p>
+</div>
