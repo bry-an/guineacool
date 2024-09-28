@@ -1,4 +1,4 @@
-<div style="height:100vh; padding: 0.5rem" class="bg-blue-900">
+<div style="min-h-[100vh]" class="bg-blue-900 min-h-[100vh]">
     <h1 class="text-6xl text-white mb-4">Welcome to GuineaCool.com!</h1>
 
     <img src="/guinea-pig-vegetables.jpg" class="w-1/3" alt="guinea pig eating vegetables" />
