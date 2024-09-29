@@ -1,5 +1,5 @@
 <div style="min-h-[100vh]" class="bg-blue-900 min-h-[100vh]">
-    <h1 class="text-6xl text-white mb-4">Welcome to GuineaCool.com!</h1>
+    <h1 class="text-4xl md:text-6xl text-white mb-4">Welcome to GuineaCool.com!</h1>
 
     <img src="/guinea-pig-vegetables.jpg" class="w-1/3" alt="guinea pig eating vegetables" />
     <p class="text-white text-3xl mt-6 mb-6">
