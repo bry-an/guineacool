@@ -49,4 +49,5 @@
     <p class="text-white text-3xl mt-8">
         There you go! Keep us cool, and we’ll keep squeaking our happy little squeaks! Wheek wheek!
     </p>
+    <img src="/guinea-surf.avif" class="w-1/3 mt-4" alt="guinea pig eating vegetables" />
 </div>
